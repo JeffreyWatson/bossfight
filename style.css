@@ -1,0 +1,12 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: url("https://i.pinimg.com/originals/ea/95/45/ea9545fe31daae57abf7562fd98930d4.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.health {
+  cursor: grab;
+  user-select: none;
+}
